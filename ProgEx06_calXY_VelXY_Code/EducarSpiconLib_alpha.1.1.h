@@ -2,11 +2,11 @@
 EducarSpiconLib.h               
                               2024.04.13   jeong
 - alpha.1: mobilerobot_beta.0.4からコピー  20240413 
-- alpha.1.1: motorOutput()修正(duty=0の場合を追加) 20240613
+- alpha.1.1: motorOutput()修正(duty=0の場合を追加) 2024/06/13  
       
 */
 
-#ifndef EducarSpiconLib_h 
+#ifndef EducarSpiconLib_h   
 #define EducarSpiconLib_h  
 
 //-------------グルーバル定義(プログラム内で値が変わらないものを定義しておく）
